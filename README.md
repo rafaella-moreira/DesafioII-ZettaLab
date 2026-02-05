@@ -9,11 +9,9 @@ O pré-processamento dos dados envolveu a seleção das informações relevantes
 
 ## Metodologia
 O pipeline analítico foi desenvolvido em Python, utilizando bibliotecas como pandas, matplotlib, seaborn, scikit-learn, entre outras. A coleta de dados foi realizada a partir de fontes públicas nacionais, seguida das etapas de pré-processamento, com o objetivo de assegurar a consistência, a integridade e a qualidade das informações analisadas.
-
 Na fase de análise exploratória dos dados, foram empregadas matrizes de correlação para identificar relações positivas e negativas entre as variáveis, permitindo uma compreensão inicial das interdependências presentes no conjunto de dados. Nessa etapa, também foi realizado o cálculo inicial e a classificação primária dos índices socioeconômicos, utilizando o modelo de Regressão Linear, a partir da estimação dos pesos das variáveis explicativas em relação ao indicador principal. Com base nesses pesos, procedeu-se à classificação do índice socioeconômico dos estados.
 
 Na etapa de modelagem estatística, foram avaliados três modelos — Regressão Linear, Random Forest e XGBoost — com o objetivo de prever o índice socioeconômico futuro dos estados. Para cada modelo, foi estimado o impacto das variáveis explicativas sobre o indicador principal, seguido do treinamento com dados de 2019 a 2021 e da validação com dados de 2022 e 2023, possibilitando a avaliação do desempenho por estado e por modelo. Posteriormente, os modelos foram utilizados para a projeção do indicador principal (Rendimento Médio Mensal) para anos futuros, com base nos padrões identificados.
-
 A avaliação de desempenho, conduzida por meio de métricas apropriadas, indicou que o modelo XGBoost apresentou maior eficiência e robustez preditiva em comparação aos demais. Adicionalmente, foram empregadas técnicas de interpretação de modelos, como a utilização de SHAP associado à Regressão Linear, para a identificação e comparação da importância e do impacto das variáveis sobre o indicador principal. Por fim, recursos de visualização de dados, incluindo gráficos de dispersão, heatmaps e histogramas, foram utilizados para facilitar a interpretação dos resultados e a extração de insights relevantes.
 
 ## Resultados
@@ -31,11 +29,11 @@ Os resultados obtidos evidenciam que o rendimento médio real exerce influência
 1. Recomendado o uso da versão 3.11.9 do Python
 2. Clone o repositório: 
 ```bash
-git clone https://github.com/rafaella-moreira/Desafio-Zetta.git
+git clone https://github.com/rafaella-moreira/DesafioII-ZettaLab.git
 ```
 3. Abra a aba do notebook:
 ```bash
- cd Desafio-Zetta/notebooks
+ cd Desafio II - ZettaLab/notebooks
 ```
 4. Execute o notebook:
  - Análise e Exploração dos Dados:
@@ -46,8 +44,7 @@ jupyter notebook EDA.ipynb
 ```bash
 jupyter notebook model.ipynb
 ```
-
-Ou para executar o arquivo completo:
+ - Execução do Arquivo Completo:
 
 ```bash
 jupyter notebook analisedados.ipynb
