@@ -109,7 +109,6 @@ def treinar_modelo_e_extrair_impacto(
 
 
 
-
 def prever_por_estado_modelo(
     df,
     estados,
