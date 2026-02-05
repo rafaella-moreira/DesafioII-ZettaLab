@@ -33,7 +33,7 @@ git clone https://github.com/rafaella-moreira/DesafioII-ZettaLab.git
 ```
 3. Abra a aba do notebook:
 ```bash
- cd Desafio II - ZettaLab/notebooks
+ cd DesafioII-ZettaLab\notebooks
 ```
 4. Execute o notebook:
  - Análise e Exploração dos Dados:
@@ -45,7 +45,6 @@ jupyter notebook EDA.ipynb
 jupyter notebook model.ipynb
 ```
  - Execução do Arquivo Completo:
-
 ```bash
 jupyter notebook analisedados.ipynb
 ```

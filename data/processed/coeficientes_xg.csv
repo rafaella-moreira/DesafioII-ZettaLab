@@ -1,45 +1,45 @@
-0
-0.5248516
-0.29700863
-0.11154235
-0.034838818
-0.011653857
-0.010498632
-0.0039604995
-0.0023956741
-0.0010860072
-0.0006411526
-0.00026539486
-0.0001686291
-0.0001430263
-0.00013814865
-0.000118303906
-9.130221e-05
-8.127071e-05
-7.304239e-05
-6.763084e-05
-6.698773e-05
-4.9283568e-05
-4.1786083e-05
-4.145658e-05
-3.5039888e-05
-3.2010088e-05
-2.7319396e-05
-2.4326522e-05
-2.3295624e-05
-2.285359e-05
-1.1674659e-05
-0.0
-0.0
-0.0
-0.0
-0.0
-0.0
-0.0
-0.0
-0.0
-0.0
-0.0
-0.0
-0.0
-0.0
+﻿variavel,impacto
+rendimento médio real habitual de todos os trabalhos(r$/mês),0.5248516
+rendimento médio real habitual do trabalho principal(r$/mês),0.29700863
+rendimento-hora médio real habitual do trabalho principal(r$/hora),0.11154235
+rendimento-hora médio real habitual de todos os trabalhos(r$/hora),0.034838818
+taxa de formalização,0.011653857
+índice gini,0.010498632
+domicílio cedido por familiar,0.0039604995
+outra forma,0.0023956741
+15 a 29 anos,0.0010860072
+população em idade de trabalhar,0.0006411526
+60 anos ou mais,0.00026539486
+população desocupada,0.0001686291
+proporção de pessoas com acesso simultâneo aos três serviços de saneamento básico(%),0.0001430263
+população ocupada em trabalhos formais,0.00013814865
+total pessoas ocupadas(1 000 pessoas),0.000118303906
+população na força de trabalho,9.130221e-05
+ensino médio completo ou superior incompleto,8.127071e-05
+45 a 59 anos,7.304239e-05
+população ocupada,6.763084e-05
+taxa composta de subutilização,6.698773e-05
+população,4.9283568e-05
+número de beneficiários de plano de saúde,4.1786083e-05
+sem instrução ou fundamental incompleto,4.145658e-05
+taxa de desocupação,3.5039888e-05
+domicílio alugado,3.2010088e-05
+população na força de trabalho potencial,2.7319396e-05
+taxa total mortalidade,2.4326522e-05
+população subutilizada,2.3295624e-05
+taxa de participação,2.285359e-05
+70 anos ou mais,1.1674659e-05
+0 a 14 anos,0.0
+taxa de analfabetismo,0.0
+nível de ocupação,0.0
+ensino fundamental completo ou médio incompleto,0.0
+ensino superior completo,0.0
+saneamento basico total(1 000 pessoas),0.0
+número mensal médio de leitos de internação (total),0.0
+60 a 69 anos,0.0
+30 a 44 anos,0.0
+total pessoas por condição de ocupação a domicílio(1 000 pessoas),0.0
+domicílio próprio - pagando,0.0
+domicílio próprio - já pago,0.0
+domicílio cedido por empregador,0.0
+domicílio cedido de outra forma,0.0
