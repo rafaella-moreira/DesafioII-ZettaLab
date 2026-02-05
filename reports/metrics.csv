@@ -1,0 +1,72 @@
+Modelo,Métrica,Estado,Valor
+Regressão Linear,R² (Impacto),Geral,0.971608714040325
+Regressão Linear,MAE (Impacto),Geral,0.040768767718498744
+Regressão Linear,RMSE (Impacto),Geral,0.04826574785093819
+Regressão Linear,R² (Importância),Geral,0.9999
+Regressão Linear,RMSE (Importância),Geral,3.1874
+Regressão Linear,MAE (Treino),Espírito Santo (2022),-14.621351
+Regressão Linear,MAE (Treino),Espírito Santo (2023),-92.724462
+Regressão Linear,MAE (Treino),Minas Gerais (2022),26.408394
+Regressão Linear,MAE (Treino),Minas Gerais (2023),-249.241176
+Regressão Linear,MAE (Treino),Rio de Janeiro (2022),70.768782
+Regressão Linear,MAE (Treino),Rio de Janeiro (2023),-147.637261
+Regressão Linear,MAE (Treino),São Paulo (2022),307.115766
+Regressão Linear,MAE (Treino),São Paulo (2023),57.154775
+Regressão Linear,R² (Previsão),Espírito Santo,0.615180 
+Regressão Linear,MAE (Previsão),Espírito Santo,0.198055
+Regressão Linear,RMSE (Previsão),Espírito Santo,0.244931
+Regressão Linear,R² (Previsão),Minas Gerais,-0.189464
+Regressão Linear,MAE (Previsão),Minas Gerais,4.594160
+Regressão Linear,RMSE (Previsão),Minas Gerais,5.907555
+Regressão Linear,R² (Previsão),São Paulo,-5.300798
+Regressão Linear,MAE (Previsão),São Paulo,0.752625
+Regressão Linear,RMSE (Previsão),São Paulo,0.912778 
+Regressão Linear,R² (Previsão),Rio de Janeiro,0.375532
+Regressão Linear,MAE (Previsão),Rio de Janeiro,0.661836 
+Regressão Linear,RMSE (Previsão),Rio de Janeiro,0.701631
+Random Forest,R² (Previsão),Espírito Santo,-1.115656
+Random Forest,MAE (Previsão),Espírito Santo,0.417042
+Random Forest,RMSE (Previsão),Espírito Santo,0.574298
+Random Forest,R² (Previsão),Minas Gerais,-0.606300
+Random Forest,MAE (Previsão),Minas Gerais,5.416667
+Random Forest,RMSE (Previsão),Minas Gerais,6.865078
+Random Forest,R² (Previsão),São Paulo,-5.057047
+Random Forest,MAE (Previsão),São Paulo,0.817741
+Random Forest,RMSE (Previsão),São Paulo,0.894948
+Random Forest,R² (Previsão),Rio de Janeiro,-0.006752
+Random Forest,MAE (Previsão),Rio de Janeiro,0.887879
+Random Forest,RMSE (Previsão),Rio de Janeiro,0.890871
+Random Forest,R² (Impacto),Geral,0.9056338481629541
+Random Forest,MAE (Impacto),Geral,0.0805448487031700
+Random Forest,RMSE (Impacto),Geral,0.0879943181510123
+Random Forest,MAE (Treino),Espírito Santo (2022),-6.018333
+Random Forest,MAE (Treino),Espírito Santo (2023),-220.018333
+Random Forest,MAE (Treino),Minas Gerais (2022),35.968889
+Random Forest,MAE (Treino),Minas Gerais (2023),-289.031111
+Random Forest,MAE (Treino),Rio de Janeiro (2022),158.538333
+Random Forest,MAE (Treino),Rio de Janeiro (2023),-134.461667
+Random Forest,MAE (Treino),São Paulo (2022),285.893333
+Random Forest,MAE (Treino),São Paulo (2023),109.893333
+XGBoost,R² (Impacto),Geral,0.984298548737476
+XGBoost,MAE (Impacto),Geral,0.025081379484030997
+XGBoost,RMSE (Impacto),Geral,0.03589354931816954
+XGBoost,MAE (Treino),Espírito Santo (2022),-182.796875
+XGBoost,MAE (Treino),Espírito Santo (2023),-131.532959
+XGBoost,MAE (Treino),Minas Gerais (2022),23.236572
+XGBoost,MAE (Treino),Minas Gerais (2023),-272.109619
+XGBoost,MAE (Treino),Rio de Janeiro (2022),92.273193
+XGBoost,MAE (Treino),Rio de Janeiro (2023),-37.615479
+XGBoost,MAE (Treino),São Paulo (2022),174.238037
+XGBoost,MAE (Treino),São Paulo (2023),1.584473
+XGBoost,R² (Previsão),Espírito Santo,-1.214853
+XGBoost,MAE (Previsão),Espírito Santo,0.579945
+XGBoost,RMSE (Previsão),Espírito Santo,0.587607
+XGBoost,R² (Previsão),Minas Gerais,-0.412233
+XGBoost,MAE (Previsão),Minas Gerais,4.922437
+XGBoost,RMSE (Previsão),Minas Gerais,6.437027
+XGBoost,R² (Previsão),São Paulo,-0.960318
+XGBoost,MAE (Previsão),São Paulo,0.363270
+XGBoost,RMSE (Previsão),São Paulo,0.509132
+XGBoost,R² (Previsão),Rio de Janeiro,0.768681
+XGBoost,MAE (Previsão),Rio de Janeiro,0.393602
+XGBoost,RMSE (Previsão),Rio de Janeiro,0.427031

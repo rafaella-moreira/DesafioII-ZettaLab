@@ -1,0 +1,5 @@
+estado,rendimento_rl,indice_socioeconomico_rl,classificacao_rl,rendimento_rf,indice_socioeconomico_rf,classificacao_rf,rendimento_xgb,indice_socioeconomico_xg,classificacao_xgb
+Rio de Janeiro,3513.3845,1.0,alto,3513.3845,1.0,alto,3513.3845,1.0,alto
+São Paulo,3503.238,0.9908216,alto,3503.238,0.9908216,alto,3503.238,0.9908216,alto
+Espírito Santo,2757.467,0.31621742,médio,2757.467,0.31621742,baixo,2757.467,0.31621742,baixo
+Minas Gerais,2407.8904,0.0,baixo,2407.8904,0.0,baixo,2407.8904,0.0,baixo
